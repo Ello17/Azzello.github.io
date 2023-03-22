@@ -1,0 +1,18 @@
+.s{
+    display: flex;
+    justify-content: center;
+ width: 100px;
+text-decoration: solid;
+color: white;
+margin: auto;
+font-family: "Poppins", sans-serif;
+}
+button{
+    display: flex;
+    margin: auto;
+    background-color: red;
+    border: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+}
